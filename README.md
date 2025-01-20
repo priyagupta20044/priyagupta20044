@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyag19636763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyag19636763" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/priya_3107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/priya_3107" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/priya_3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/priya_3107" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/priya_3107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/priya_3107/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/priya_3107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priya_3107" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/priya_3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priya_3107" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/priya_3107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priya_3107/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
