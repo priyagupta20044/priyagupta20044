@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://brilliant-biscotti-a9fea7.netlify.app/](https://brilliant-biscotti-a9fea7.netlify.app/)
-
 - 📫 How to reach me **priya.gupta20044@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mzkLLRLp-PDeEcAz3w-sa2IiHkCN0YTQ/view?usp=drive_link](https://drive.google.com/file/d/1mzkLLRLp-PDeEcAz3w-sa2IiHkCN0YTQ/view?usp=drive_link)
