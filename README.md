@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **priya.gupta20044@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mzkLLRLp-PDeEcAz3w-sa2IiHkCN0YTQ/view?usp=drive_link](https://drive.google.com/file/d/1mzkLLRLp-PDeEcAz3w-sa2IiHkCN0YTQ/view?usp=drive_link)
+- 📄 Know more about my experiences [Check out my resume](https://drive.google.com/file/d/1e2HKWBx6hn50RxjGPtyO5yJAyipAk4ge/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
